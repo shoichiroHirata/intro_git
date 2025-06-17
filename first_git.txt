@@ -3,3 +3,4 @@ git 頑張る
 git add
 git commit
 git status
+git diff
