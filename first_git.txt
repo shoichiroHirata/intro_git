@@ -2,3 +2,5 @@
 git 頑張る
 git add
 git commit
+
+tinnko
