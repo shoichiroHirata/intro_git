@@ -1,2 +1,4 @@
 ぎっとの練習
 git 頑張る
+git add
+git commit
